@@ -1,0 +1,16 @@
+
+th{
+	color: goldenrod;
+}
+
+
+tr{color: cornflowerblue;
+
+font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+font-size: 12px;
+}
+
+a {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	
+color: lightsteelblue;

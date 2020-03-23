@@ -1,0 +1,21 @@
+h1{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: cornflowerblue;
+}
+
+
+p{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 18px;
+	color: gray;
+}
+
+ol{
+	color: silver;
+}
+
+
+a{
+	color: red;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
